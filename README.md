@@ -1,4 +1,4 @@
-# gege44
+# gxgx44
 ### Hi there! 👋
 
 I am a **Computer Science student specializing in Machine Learning**, with a strong interest in the **intersection of AI and Cybersecurity**. Currently, I am exploring research opportunities and working on projects related to **anomaly detection, adversarial attacks, and privacy-preserving AI**.  
