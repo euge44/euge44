@@ -13,7 +13,7 @@ I am a **Computer Science student specializing in Machine Learning**, with a str
 I am currently doing a **research internship** studying **privacy attacks in federated learning**. My work focuses on exploring new attacks in federated models.
 
 🚀 **Current Projects**  
-- **[Phishing Detection with ML](#)** - Classifying phishing websites using ML models.  
+- **[Phishing Detection with ML](https://github.com/euge44/phishingClassification)** - Classifying phishing websites using ML models.  
 - **[FL for cyber](#)** - Using Federated Learning to classify malwares. (coming soon)
 - **[Differencial Privacy](#)** - Exploring Differential Privacy (coming soon)
 
