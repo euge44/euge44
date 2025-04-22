@@ -5,7 +5,7 @@ I am a **Computer Science student specializing in Machine Learning**, with a str
 
 🔍 **Areas of Interest**  
 - 🧠 Machine Learning & Deep Learning  
-- 🔒 AI for Cybersecurity  
+- 🔒 AI for Cybersecurity & ML Security
 - ⚡ Federated Learning & Privacy-Preserving AI
 
 🔬 **Current Research**  
@@ -14,10 +14,10 @@ I am currently doing a **research internship** studying **privacy attacks in fed
 🚀 **Current Projects**  
 - **[Phishing Detection with ML](https://github.com/euge44/phishingClassification)** - Classifying phishing websites using ML models.  
 - **[FL for cyber](https://github.com/euge44/federated-malware)** - Using Federated Learning to classify malwares. 
-- **[Differencial Privacy](#)** - Exploring Differential Privacy (coming soon)
 
 🌱 **Topics I Want to Explore Further** 
 - **Automated Threat Intelligence using NLP**
+- **Differencial Privacy**
 - **Ethical AI**
 
 📖 **Education**  
