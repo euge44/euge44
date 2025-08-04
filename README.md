@@ -16,8 +16,8 @@ I am currently doing a **research internship** studying **privacy attacks in fed
 - **[FL for cyber](https://github.com/euge44/federated-malware)** - Using Federated Learning to classify malwares. 
 
 🌱 **Topics I Want to Explore Further** 
+- **AI Agent Security**
 - **Automated Threat Intelligence using NLP**
-- **Differencial Privacy**
 - **Ethical AI**
 
 📖 **Education**  
