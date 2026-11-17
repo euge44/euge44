@@ -1,24 +1,24 @@
-# gxgx44
-### Hi there! 👋
+# Hi there! 👋
 
-I am a **Computer Science student specializing in Machine Learning**, with a strong interest in the **intersection of AI and Cybersecurity**. Currently, I am exploring research opportunities and working on projects related to **anomaly detection, adversarial attacks, and privacy-preserving AI**.  
+I'm a **PhD student in Computer Science at Georgia Tech**. My research focuses on **AI security and privacy**, particularly the security of LLM agents and adversarial attacks against machine learning systems.
 
-🔍 **Areas of Interest**  
-- 🧠 Machine Learning & Deep Learning  
-- 🔒 AI for Cybersecurity & ML Security
-- ⚡ Federated Learning & Privacy-Preserving AI
+### 🔍 Research Interests
 
-🔬 **Current Research**  
-I am currently doing a **research internship** studying **privacy attacks in federated learning**. My work focuses on exploring new attacks in federated models.
+- **LLM Agent Security:** Prompt injection, adversarial attacks, and robustness of tool-calling agents.
+- **Adversarial Machine Learning:** Backdoor attacks.
+- **Privacy in Machine Learning:** Membership inference, federated learning, and privacy risk assessment.
 
-🚀 **Current Projects**  
-- **[Phishing Detection with ML](https://github.com/euge44/phishingClassification)** - Classifying phishing websites using ML models.  
-- **[FL for cyber](https://github.com/euge44/federated-malware)** - Using Federated Learning to classify malwares. 
+### 🔬 Current Research
 
-🌱 **Topics I Want to Explore Further** 
-- **AI Agent Security**
-- **Automated Threat Intelligence using NLP**
-- **Ethical AI**
+At Georgia Tech, I investigate security vulnerabilities in LLM agents, with a focus on indirect prompt injection and adversarial manipulation of tool-calling systems.
 
-📖 **Education**  
-🎓 *Georgia Tech*  x *IMT Atlantique*
+I also work on privacy risk estimation using LLMs and neural network verifier testing.
+
+Previously, I studied membership inference attacks against federated image segmentation models.
+
+### 🚀 Projects
+
+- **[Backdoor Attacks on SLM-Based Web Agents](https://github.com/euge44/Biased-Backdoors)** — Studied query-triggered backdoor attacks against small language model agents in the WebShop environment.
+- **[Phishing Detection with ML](https://github.com/euge44/phishingClassification)** — Classifying phishing websites using machine learning.
+- **[Federated Learning for Malware Detection](https://github.com/euge44/federated-malware)** — Exploring federated learning for malware classification.
+
